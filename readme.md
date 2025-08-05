@@ -12,6 +12,4 @@ Compared to coding, I learn command‐line controls much more quickly, so I’m 
 
 I hope to **learn** from and **grow** with more friends.
 
-If you have any questions, feel free to open an **issue** on GitHub or join my Steam community **group**.
-
-My Steam community group URL: https://steamcommunity.com/groups/RinnnnnStudio
+If you have any questions, feel free to open an **issue** on GitHub.
