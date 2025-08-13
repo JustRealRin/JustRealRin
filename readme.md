@@ -1,8 +1,8 @@
 ## 👋   
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&width=650&lines=Thank you+for+cloning,;forking+or+starring+my project!" alt="typing" />
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=JustRealRin&style=flat-square)
+
+**Thank you** for cloning, forking or starring my project!
 
 ## 🔭
 
