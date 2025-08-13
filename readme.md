@@ -1,4 +1,10 @@
-**Thank you** for cloning, forking, or starring my project!
+## 👋   
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&width=650&lines=Thank you+for+cloning,;forking+or+starring+my project!" alt="typing" />
+
+![Visitor Count](https://komarev.com/ghpvc/?username=JustRealRin&style=flat-square)
+
+## 🔭
 
 I used to work in cybersecurity and am currently unemployed. In this situation, I want to use whatever limited knowledge and skills I have to **help** others, even if it’s only a very small contribution.
 
@@ -14,6 +20,13 @@ I hope to **learn** from and **grow** with more friends.
 
 If you have any questions, feel free to open an **issue** on GitHub or join my **Steam community group**.
 
+## ✨
+
 https://JustRealRin.github.io/
 
 https://steamcommunity.com/groups/RinnnnnStudio
+
+## 📊 
+
+<img src="https://github-readme-stats.vercel.app/api?username=JustRealRin&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustRealRin&layout=compact&theme=radical" alt="top langs" />
