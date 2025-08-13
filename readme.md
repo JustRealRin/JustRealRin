@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JustRealRin&style=flat-square)
 
-**Thank you** for cloning, forking or starring my project!
+**Thank you** for cloning, forking, or starring my project!
 
 ## 🔭**About**
 
