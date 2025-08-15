@@ -22,9 +22,9 @@ If you have any questions, feel free to open an **issue** on GitHub or join my *
 
 ## ✨**Link**
 
-https://JustRealRin.github.io/
+https://JustRealRin.github.io
 
-https://steamcommunity.com/groups/RinnnnnStudio
+https://t.me/+-2Wv3QFoUdRhMTI1
 
 ## 📊**Stats**
 
