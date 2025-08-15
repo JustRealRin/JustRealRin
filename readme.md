@@ -24,7 +24,7 @@ If you have any questions, feel free to open an **issue** on GitHub or join my *
 
 https://JustRealRin.github.io
 
-https://t.me/+-2Wv3QFoUdRhMTI1
+https://t.me/rinnnnnstudio
 
 ## 📊**Stats**
 
