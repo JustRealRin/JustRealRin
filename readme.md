@@ -24,8 +24,6 @@ If you have any questions, feel free to open an **issue** on GitHub or join my *
 
 https://JustRealRin.github.io
 
-https://t.me/rinnnnnstudio
-
 ## 📊**Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=JustRealRin&show_icons=true&theme=radical" alt="stats" />
