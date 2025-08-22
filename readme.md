@@ -20,6 +20,8 @@ I hope to **learn** from and **grow** with more friends.
 
 If you have any questions, feel free to open an **issue** on GitHub or join my **group**.
 
+*All revenue from the products we sell on DLsite will be converted entirely into DLsite points and deposited into our DLsite account; it will not be converted into cash transfers. This is to ensure that we can use the points to purchase materials for future creations and to prevent any motivation to create for the sake of profit.
+
 ## ✨**Link**
 
 https://JustRealRin.github.io
